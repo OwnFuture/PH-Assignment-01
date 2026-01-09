@@ -211,4 +211,34 @@
     font-weight: 600;
     font-size: 14px;
 }
-
+#challenge{
+    max-width: 1600px;
+    height: 406px;
+    
+}
+#challenge .challenge-content{
+    width: 1360px;
+    height: 360px;
+    margin: 0 auto 120px;
+    background-color: #F7F6F2;
+    border: 1px solid green;
+}
+#challenge .challenge-content h2{
+    width: 1280px;
+    height: 48px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin: 60px auto 16px;
+}
+#challenge .challenge-content p{
+    width: 1280px;
+    height: 48px;
+    text-align: center;
+    line-height: 24px;
+    color: #627382;
+}
+#challenge .challenge-content .ch-btn{
+    text-align: center;
+    margin: 24px 543px 16px 503px;
+}
